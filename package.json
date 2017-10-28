@@ -1,0 +1,29 @@
+{
+  "name": "gdespa_pwdi",
+  "version": "1.0.0",
+  "description": "REST API for Power BI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgr/gdespa_pwdi.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Power",
+    "BI",
+    "Bi"
+  ],
+  "author": "Rafael García",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/rafaelgr/gdespa_pwdi/issues"
+  },
+  "homepage": "https://github.com/rafaelgr/gdespa_pwdi#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
